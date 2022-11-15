@@ -10,7 +10,7 @@
 
 <https://github.com/carlo-de-bernardo/zabbix_templates/tree/main/net/RSTP%20Monitor%20CDB>
 
-## Zabbix Template: monitor Teracom TCW220 datalogger
+## Zabbix Template: monitor Teracom TCW220 datalogger via SNMP
 
 <https://github.com/carlo-de-bernardo/zabbix_templates/tree/main/net/Teracom/TCW220>
 
